@@ -1,9 +1,10 @@
 <h1 align="left">Hi 👋, I'm Emre</h1>  
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-<h4 align="left">I am a frontend developer. I share the projects i wrote to improve myself on my github account. I mainly work on React.js and I strive to learn new technologies.</h4>  
+<h4 align="left">Hello, welcome to my github profile. I'm a mid-level web designer and developer in Turkey... don't lose
+                            yourself in this world without borders -> border:none;</h4>  
 
  
-#### I am frontend developer
+#### I am Full-Stack Developer
 - 🌱 I’m currently learning **React.js / javascript** 
 
 ![age](https://img.shields.io/badge/age-18-blue)
@@ -12,8 +13,6 @@
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=lutfiEmre.github.profile)
 
 <br />
-
-Skills: HTML,CSS,Bootstrap,JS,React...
 
 <h1 align="center">My Website My Rules</h1>
 <h3 align="center">I'm mid-level web designer and developer</h3>
