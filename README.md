@@ -14,7 +14,7 @@
 
 <br />
 
-<h1 align="center">My Website My Rules</h1>
+<h1 justify-content="center" align="center">My Website My Rules</h1>
 <h3 align="center">I'm mid-level web designer and developer</h3>
 
 - My Website: [EmreLutfi](https://emrelutfi.com/)
