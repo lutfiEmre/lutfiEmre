@@ -13,6 +13,7 @@
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=lutfiEmre.github.profile)
 
 <br />
+<br />
 
 <h1 justify-content="center" align="center">My Website My Rules</h1>
 <h3 align="center">I'm mid-level web designer and developer</h3>
