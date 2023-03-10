@@ -16,11 +16,11 @@
 <br />
 
 <h1 justify-content="center" align="center">My Website My Rules</h1>
-<h3 align="center">I'm mid-level web designer and developer</h3>
+<h3 align="center">I'm Front-End Developer and UI / UX Designer</h3>
 
 - My Website: [EmreLutfi](https://emrelutfi.com/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **datafex**
 
