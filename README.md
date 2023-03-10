@@ -10,7 +10,7 @@
 ![age](https://img.shields.io/badge/age-18-blue)
 ![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
 ![living](https://img.shields.io/badge/living-turkey-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=lutfiEmre.github.profile)
+![visitors](https://profile-counter.glitch.me/{lutfiEmre}/count.svg)
 
 <br />
 <br />
