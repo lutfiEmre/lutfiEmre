@@ -26,11 +26,11 @@
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 📝 I regularly write articles on [soon](soon)
+- 📝 I regularly write articles on https://medium.com/@emrelutfi
 
 - 💬 Ask me about **I'm 18 years old, from Turkey.**
 
-- 📫 How to reach me **emrelutfi38@gmail.com**
+- 📫 How to reach me **mail@emrelutfi.com**
 
 - 📄 Know about my experiences [https://emrelutfi.com/](https://emrelutfi.com/)
 
