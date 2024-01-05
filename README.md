@@ -5,7 +5,7 @@
 
  
 #### I am Full-Stack Developer
-- 🌱 I’m currently learning **React.js / javascript** 
+- 🌱 I’m currently using **NextJS / TalwindCSS** 
 
 ![age](https://img.shields.io/badge/age-18-blue)
 ![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
@@ -20,7 +20,7 @@
 
 - My Website: [EmreLutfi](https://emrelutfi.com/)
 
-- 🌱 I’m currently using **NextJS**
+- 🌱 I’m currently learning **ThreeJS**
 
 - 🤝 I’m looking for help with **datafex**
 
