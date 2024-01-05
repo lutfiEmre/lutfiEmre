@@ -20,7 +20,7 @@
 
 - My Website: [EmreLutfi](https://emrelutfi.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently using **NextJS**
 
 - 🤝 I’m looking for help with **datafex**
 
