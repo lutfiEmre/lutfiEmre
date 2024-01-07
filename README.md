@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Emre</h1>  
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-<h4 align="left">Hello, welcome to my github profile. I'm a mid-level web designer and developer in Turkey... don't lose
+<h4 align="left">Hello, welcome to my github profile. I'm a Front-end Developer and UI UX Designer in Turkey... don't lose
                             yourself in this world without borders -> border:none;</h4>  
 
  
