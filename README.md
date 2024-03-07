@@ -4,7 +4,7 @@
                             yourself in this world without borders -> border:none;</h4>  
 
  
-#### I am Full-Stack Developer
+#### I am Front-End Developer
 - 🌱 I’m currently using **NextJS / TalwindCSS** 
 
 ![age](https://img.shields.io/badge/age-19-blue)
