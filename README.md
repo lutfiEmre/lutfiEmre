@@ -22,13 +22,13 @@
 
 - 🌱 I’m currently learning **ThreeJS**
 
-- 🤝 I’m looking for help with **datafex**
+- 🤝 I’m looking for help with **Assa Technology**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
 - 📝 I regularly write articles on https://medium.com/@emrelutfi
 
-- 💬 Ask me about **I'm 19 years old, from Turkey.**
+- 💬 Ask me about **I'm 20 years old, from Turkey.**
 
 - 📫 How to reach me **mail@emrelutfi.com**
 
