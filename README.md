@@ -7,7 +7,7 @@
 #### I am Front-End Developer
 - 🌱 I’m currently using **NextJS / TalwindCSS** 
 
-![age](https://img.shields.io/badge/age-19-blue)
+![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
 ![living](https://img.shields.io/badge/living-turkey-3c9)
 ![visitors](https://profile-counter.glitch.me/{lutfiEmre}/count.svg)
