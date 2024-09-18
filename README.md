@@ -8,7 +8,7 @@
 - 🌱 I’m currently using **NextJS / TalwindCSS** 
 
 ![age](https://img.shields.io/badge/age-20-blue)
-![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
+![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-turkey-3c9)
 ![visitors](https://profile-counter.glitch.me/{lutfiEmre}/count.svg)
 
