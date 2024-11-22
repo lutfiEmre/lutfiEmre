@@ -20,11 +20,11 @@
 
 - My Website: [EmreLutfi](https://emrelutfi.com/)
 
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning **Next.js Tailwindcss and NodeJS**
 
-- 🤝 I’m looking for help with **Assa Technology**
+- 🤝 I’m looking for help with emrelutfi.com
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at github
 
 - 📝 I regularly write articles on https://medium.com/@emrelutfi
 
