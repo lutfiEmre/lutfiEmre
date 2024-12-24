@@ -5,7 +5,7 @@
 
  
 #### I am Front-End Developer
-- 🌱 I’m currently using **NextJS / TalwindCSS** 
+- 🌱 I’m currently using **NextJS / TalwindCSS, React Native** 
 
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
@@ -20,7 +20,7 @@
 
 - My Website: [EmreLutfi](https://emrelutfi.com/)
 
-- 🌱 I’m currently learning **Next.js Tailwindcss and NodeJS**
+- 🌱 I’m currently working **Next.js,React, React Native, Tailwindcss and NodeJS**
 
 - 🤝 I’m looking for help with emrelutfi.com
 
