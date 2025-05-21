@@ -3,7 +3,8 @@
                             yourself in this world without borders -> border:none;</h4>  
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<br/>
 <br/>
 #### I am Front-End Developer
 - 🌱 I’m currently using **NextJS / TalwindCSS, React Native** 
