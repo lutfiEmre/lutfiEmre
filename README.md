@@ -55,7 +55,7 @@
 <br>
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lutfiEmre&show_icons=true&theme=dark&locale=en&layout=compact" alt="emreygc7" /></p>  
+
 
 
 
