@@ -1,12 +1,11 @@
 <h1 align="left">Hi 👋, I'm EmreLutfi</h1>  
-<h4 align="left">Hello, welcome to my github profile. I'm a Front-end Developer and UI UX Designer in Turkey... don't lose
+<h4 align="left">Hello, welcome to my github profile. I'm a Full Stack Developer and UI UX Designer in Turkey... don't lose
                             yourself in this world without borders -> border:none;</h4>  
 <br/>
 
 <img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 <br/>
 <br/>
-I am Front-End Developer
 - 🌱 I’m currently using **NextJS / TalwindCSS, React Native** 
 
 
@@ -22,8 +21,7 @@ I am Front-End Developer
 <br />
 <br />
 
-<h1 justify-content="center" align="center">My Website My Rules</h1>
-<h3 align="center">I'm Front-End Developer and UI / UX Designer</h3>
+<h3 align="center">I'm Full Stack Developer and UI / UX Designer</h3>
 
 - My Website: [EmreLutfi](https://emrelutfi.com/)
 
