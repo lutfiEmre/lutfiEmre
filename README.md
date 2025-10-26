@@ -1,61 +1,98 @@
-<h1 align="left">Hi 👋, I'm EmreLutfi</h1>  
-<h4 align="left">Hello, welcome to my github profile. I'm a Full Stack Developer and UI UX Designer in Turkey... don't lose
-                            yourself in this world without borders -> border:none;</h4>  
-<br/>
+# Hi 👋, I'm EmreLutfi
 
-<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-<br/>
-<br/>
-- 🌱 I’m currently using **NextJS / TalwindCSS, React Native** 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lutfiEmre&label=Profile%20views&color=8B5CF6&style=flat" alt="lutfiEmre" />
+</div>
 
+---
 
+## 🚀 About Me
 
+- 🎯 **Full Stack Developer** & **UI/UX Designer** from Turkey
+- 🌱 Currently mastering **Next.js**, **React**, **TypeScript**, **TailwindCSS**
+- 💡 Passionate about creating **scalable web applications** and **modern front-end solutions**
+- 🎨 Love crafting **pixel-perfect designs** and **user-centered experiences**
+- 📚 Always learning and exploring new technologies
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lutfiEmre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiEmre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-![age](https://img.shields.io/badge/age-21-blue)
-![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
-![living](https://img.shields.io/badge/living-turkey-3c9)
-![visitors](https://profile-counter.glitch.me/{lutfiEmre}/count.svg)
+---
 
-<br />
-<br />
+## 🛠️ Tech Stack
 
-<h3 align="center">I'm Full Stack Developer and UI / UX Designer</h3>
+### Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- My Website: [EmreLutfi](https://emrelutfi.com/)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
-- 🌱 I’m currently working **Next.js,React, React Native, Tailwindcss and NodeJS**
-
-- 🤝 I’m looking for help with emrelutfi.com
-
-- 👨‍💻 All of my projects are available at github
-
-- 📝 I regularly write articles on https://medium.com/@emrelutfi
-
-- 💬 Ask me about **I'm 21 years old, from Turkey.**
-
-- 📫 How to reach me **mail@emrelutfi.com**
-
-- 📄 Know about my experiences [https://emrelutfi.com/](https://emrelutfi.com/)
-
-- Discord: EmreLutfi#9609
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/emrelutfii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrelutfii" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/emre-lutfi-4252a2243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre lutfi" height="30" width="40" /></a>
-<a href="https://instagram.com/emrelutfii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emrelutfii" height="30" width="40" /></a>
-<a href="https://discord.gg/EmreLutfi#9609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EmreLutfi#9609" height="30" width="40" /></a>
-</p>
-  
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
-<br>
-<br>
-<br>
+## 📈 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfiEmre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+---
 
+## 🎯 Current Focus
 
+- 🔥 Building **AI-integrated web applications**
+- 🎨 Perfecting **pixel-perfect UI/UX designs**
+- 📱 Exploring **React Native** for mobile development
+- 🌐 Contributing to **open source projects**
+- 📚 Learning **advanced TypeScript patterns**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://emrelutfi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:mail@emrelutfi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/emrelutfii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@emrelutfi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</div>
+
+---
+
+## 💬 Fun Fact
+
+```css
+/* Don't lose yourself in this world without borders */
+border: none;
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
+</div>
