@@ -18,11 +18,6 @@
 - 🎨 Love crafting **pixel-perfect designs** and **user-centered experiences**
 - 📚 Always learning and exploring new technologies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lutfiEmre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiEmre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -47,15 +42,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🔥 Building **AI-integrated web applications**
-- 🎨 Perfecting **pixel-perfect UI/UX designs**
-- 📱 Exploring **React Native** for mobile development
-- 🌐 Contributing to **open source projects**
-- 📚 Learning **advanced TypeScript patterns**
-
----
 
 ## 📫 Connect With Me
 
